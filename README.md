@@ -2,6 +2,6 @@
 
 
 - 🔭 Atualmente não trabalho na área de programação, mas trabalho como técnico em Telecom
-- 🌱 Estudando muito lógica de programação com JavaScript para começar meus projetinhos...
+- 🌱 Estudando lógica de programação com JavaScript, NODEJS, HTML E CSS. 
 - 😄 Pronouns: Ele/Dele
 
