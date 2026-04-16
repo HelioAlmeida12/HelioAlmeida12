@@ -1,6 +1,18 @@
-## Olá, eu sou o Hélio Almeida. Prazer em ver você por aqui!!😊
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 🔭 Atualmente não trabalho na área de programação. Atuo como técnico em telecom.
-- 🌱 Estudando lógica de programação com JavaScript, NODEJS, HTML E CSS, Express.
-- 😄 Pronouns: Ele/Dele
 
+```md id="perfil123"
+# Olá, eu sou o Hélio 👋
+
+💻 Desenvolvedor Back-end em formação
+
+🚀 Tecnologias:
+- Node.js
+- Express
+- MySQL
+- JavaScript
+
+📚 Atualmente estudando:
+- APIs REST
+- Banco de dados
+
+📫 Contato:
+- LinkedIn: (seu link)
