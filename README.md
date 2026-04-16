@@ -11,8 +11,12 @@
 - JavaScript
 
 📚 Atualmente estudando:
+- Express 
+- MySQL
+- JavaScript
+- Node.js
 - APIs REST
 - Banco de dados
 
 📫 Contato:
-- LinkedIn: (seu link)
+- LinkedIn: https://www.linkedin.com/in/helio-almeida-lima-05b71219b/
